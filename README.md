@@ -1,7 +1,7 @@
 # InteractiveRebase
 A repository with dodgy commits, to be fixed as part of an interactive rebase exercise.
 
-## Insaltlation
+## Installation
 ```
 poetry install
 ```
@@ -11,3 +11,6 @@ poetry install
 poetry shell
 pytest
 ```
+
+Email: benjaminlambell@gmail.com
+Password: lInTeNTatArMiTYp
